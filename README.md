@@ -1,4 +1,5 @@
 # Font Creator - iPad App
+![GyS_R1oa8AA9Zmr](https://github.com/user-attachments/assets/a12c56df-d986-4265-a6e9-2d77d7451ce8)
 
 A React Native Expo application that allows users to create custom handwritten fonts using their iPad and Apple Pencil.
 
